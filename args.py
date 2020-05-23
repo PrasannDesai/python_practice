@@ -20,10 +20,10 @@ def my_sum(*args):
 
 
 list1 = [1, 2, 3]
-list2 = [4, 5]
+# list2 = [4, 5]
 list3 = [6, 7, 8, 9]
 
-print(my_sum(list1, list2, list3))
+print(my_sum(list1, list3))
 
 k = [1, 2, 3, 4]
 print(k)
